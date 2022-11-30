@@ -1,5 +1,5 @@
 const ID = 'e64b59ce42bf46ef937b24de3866098d';
-const redirectURI = "http://rotten-bun.surge.sh";
+const redirectURI = "https://gleeful-gnome-4f52fc.netlify.app/";
 let userAccess;
 let Spotify = {
     getAccessToken(){
